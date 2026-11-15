@@ -1,0 +1,6 @@
+{
+  "name": "GroceryGo STQA",
+  "description": "Full-stack grocery delivery platform integrated with a real-time Software Testing & Quality Assurance (STQA) management and Playwright test automation workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
